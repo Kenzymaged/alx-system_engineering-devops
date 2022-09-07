@@ -1,2 +1,2 @@
 #!/bin/bash
-findstr "root" /etc/passwd
+find "root" /etc/passwd
